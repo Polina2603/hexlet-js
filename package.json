@@ -1,0 +1,27 @@
+{
+  "name": "hexlet",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Мой первый проект на Хекслет",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Polina2603/hexlet-js.git"
+  },
+  "keywords": [
+    "march"
+  ],
+  "author": "Polina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Polina2603/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Polina2603/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {}
+}
